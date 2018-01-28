@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11   CMakeFiles/filetransform.dir/filetransform.cc.o  -o ../bin/filetransform -lmuduo_base -lmuduo_net -lpthread 

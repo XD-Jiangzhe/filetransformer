@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/router/Documents/muduo_example/filetransform/transform_client.cc
+muduo/base/Logging.h
+-
+muduo/net/EventLoop.h
+-
+muduo/net/TcpClient.h
+-
+muduo/net/InetAddress.h
+-
+muduo/net/TcpConnection.h
+-
+muduo/net/EventLoopThreadPool.h
+-
+boost/ptr_container/ptr_vector.hpp
+-
+stdio.h
+-
+unistd.h
+-
+memory
+-
+fstream
+-
+iostream
+-
+functional
+-
+mutex
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -std=c++11   CMakeFiles/transform_client.dir/transform_client.cc.o  -o ../bin/transform_client -lmuduo_net -lmuduo_base -lpthread -lboost_system 

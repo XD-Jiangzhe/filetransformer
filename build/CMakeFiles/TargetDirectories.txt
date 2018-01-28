@@ -1,0 +1,4 @@
+/home/router/Documents/muduo_example/filetransform/build/CMakeFiles/edit_cache.dir
+/home/router/Documents/muduo_example/filetransform/build/CMakeFiles/rebuild_cache.dir
+/home/router/Documents/muduo_example/filetransform/build/CMakeFiles/transform_client.dir
+/home/router/Documents/muduo_example/filetransform/build/CMakeFiles/filetransform.dir
